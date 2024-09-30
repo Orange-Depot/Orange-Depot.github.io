@@ -14,12 +14,12 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 847X # the main title
+title: Prahas Duggireddy # the main title
 
 tagline: A community-based hub of knowledge # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A community database for VEX robotics competition started by 847X-Robotics.
+  A community database for VEX robotics competition started by Prahas Duggireddy.
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://orange-depot.github.io"
@@ -33,7 +33,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 847X-Robotics
+  name: Prahas-Duggireddy
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
